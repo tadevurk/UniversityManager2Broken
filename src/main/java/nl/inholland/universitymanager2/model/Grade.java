@@ -1,6 +1,8 @@
 package nl.inholland.universitymanager2.model;
 
 public class Grade {
+
+    // bla bla
     private String course;
     private double grade;
 
